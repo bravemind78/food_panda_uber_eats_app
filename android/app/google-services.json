@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233341246796",
+    "project_id": "sellers-app-94f55",
+    "storage_bucket": "sellers-app-94f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233341246796:android:e1c743c13235ff424f43e9",
+        "android_client_info": {
+          "package_name": "com.naderrashed.sellersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGUnR_i9ohPkpZrjCsxDNV-B4LFChvTw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
